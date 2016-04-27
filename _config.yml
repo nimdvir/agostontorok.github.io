@@ -1,3 +1,32 @@
-name: Agoston Torok
-markdown: kramdown
-permalink: /blog/:year/:month/:day/:title
+# Permalinks
+permalink:        pretty # /blog/:year/:month/:day/:title
+
+# Setup
+url:              http://agostontorok.com
+
+# Set to '' in case of hosting on `http://<your-github-name>.github.io`
+baseurl:          ''
+
+title:            Agoston Torok's personal webpage
+
+# Markdown enabled, however don't use more than one paragraph (enforced by `>`)
+description:      >
+  Researcher. Data interpreter. 
+
+# The tags listed as entries in the sidebar
+sidebar_tags:     [teaching, research]
+
+# Fallback image and color if not overwritten for tag or post
+image:            /images/agoston.jpg
+color:            '#A85641'
+
+author:
+  name:           'Agoston Török'
+  twitter:        agostontorok
+  github:         agostontorok
+  #photo:          http://qwtel.com/public/img/flo.jpg
+
+  # Markdown enabled, can use multiple paragraphs (enabled by `|`)
+  about:          |. 
+I'm a PhD candidate at ELTE, a junior researcher at the Brain Imaging Centre, RCNS, HAS, and a data scientist at Synetiq. I'm passionate about science and interdisciplinary research. This website is devoted to the people, softwares and tools I have met. 
+
