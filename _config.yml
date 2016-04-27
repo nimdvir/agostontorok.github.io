@@ -1,13 +1,13 @@
 # Permalinks
-permalink:        pretty # /blog/:year/:month/:day/:title
+permalink:        pretty 
 
 # Setup
-url:              http://agostontorok.com
+url:              http://agostontorok.github.io
 
 # Set to '' in case of hosting on `http://<your-github-name>.github.io`
 baseurl:          ''
 
-title:            Agoston Torok's personal webpage
+title:            'Ã¡goston.tÃ¶rÃ¶k'
 
 # Markdown enabled, however don't use more than one paragraph (enforced by `>`)
 description:      >
@@ -17,16 +17,16 @@ description:      >
 sidebar_tags:     [teaching, research]
 
 # Fallback image and color if not overwritten for tag or post
-image:            /images/agoston.jpg
+image:            /public/img/PANO_20140916_152703.jpg
 color:            '#A85641'
 
 author:
-  name:           'Agoston Török'
-  twitter:        agostontorok
+  name:           'Agoston Torok'
+  twitter:        torokagoston
   github:         agostontorok
   #photo:          http://qwtel.com/public/img/flo.jpg
 
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
-  about:          |. 
-I'm a PhD candidate at ELTE, a junior researcher at the Brain Imaging Centre, RCNS, HAS, and a data scientist at Synetiq. I'm passionate about science and interdisciplinary research. This website is devoted to the people, softwares and tools I have met. 
+  about:          |
+    I'm a PhD candidate at ELTE, a junior researcher at the Brain Imaging Centre, RCNS, HAS, and a data scientist at Synetiq. I'm passionate about science and interdisciplinary research. This website is devoted to the people, softwares and tools I have met. 
 

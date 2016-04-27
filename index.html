@@ -1,27 +1,59 @@
 ---
 layout: default
-title: Agoston Torok, personal website
+title: Blog
 ---
-<img src="images/agoston_index.jpeg">
-            <article>
-            	<p>
-                My name is Ágoston Török. 
-I'm a cognitive psychologist and a PhD candidate at the Eötvös Loránd University. 
-I'm doing my research at the Brain Imaging Centre, RCNS, HAS. 
-My interests are the brain dynamics of space perception and spatial cognition, multisensory integration and formerly the perception of prosody.
-                </p>
-            </article>
-			<article>
-            	<p>
-            	Links to my affiliations:
-            	<ul>
-            		<li><a href="http://www.ttk.mta.hu/en/intezetek/agyi-kepalkoto-kozpont-2/" 
-target="_blank" rel="nofollow"> Brain Imaging Centre, RCNS, HAS</a></li>
-            		<li><a href="http://humlab.ttk.mta.hu/eng/index.php" target="_blank" 
-rel="nofollow">Neurocognitive Development Group, RCNS, HAS </a></li>
-            		<li><a href="https://sites.google.com/site/eltekognitiv/home/english" target="_blank">Department of Cognitive Psychology, Eötvös Lóránd University</a></li>
 
-		</ul>
-            	</p>
-            </article>
- 
+{% for post in site.posts %}
+  {% assign currentdate = post.date | date: "%Y" %}
+  {% if currentdate != date %}
+    {% unless forloop.first %}</ul><hr/>{% endunless %}
+    <!-- <h2 id="y{{post.date | date: "%Y"}}" class="page-title">{{ currentdate }}</h2> -->
+    <ul class="related-posts">
+    {% assign date = currentdate %}
+  {% endif %}
+  <li>
+    <h1>
+      <a href="{{ site.baseurl }}{{ post.url }}">
+        <span>{{ post.title }}</span>
+        <small>{{ post.date | date: "%m/%d" }}</small>
+      </a>
+    </h1>
+  </li>
+  {{ post.content }}
+  {% if forloop.last %}</ul><hr/>{% endif %}
+{% endfor %}
+
+{% if false %}
+<!-- <div class="posts">
+  {% for post in paginator.posts %}
+  <div class="post">
+    <h1 class="post-title">
+      <a href="{{ post.url }}">
+        {{ post.title }}
+      </a>
+    </h1>
+
+    <span class="post-date">{{ post.date | date_to_string }}</span>
+
+    {{ post.content }}
+  </div>
+  {% endfor %}
+</div>
+
+<div class="pagination">
+  {% if paginator.next_page %}
+    <a class="pagination-item older" href="{{ site.baseurl }}page{{paginator.next_page}}">Older</a>
+  {% else %}
+    <span class="pagination-item older">Older</span>
+  {% endif %}
+  {% if paginator.previous_page %}
+    {% if paginator.page == 2 %}
+      <a class="pagination-item newer" href="{{ site.baseurl }}">Newer</a>
+    {% else %}
+      <a class="pagination-item newer" href="{{ site.baseurl }}page{{paginator.previous_page}}">Newer</a>
+    {% endif %}
+  {% else %}
+    <span class="pagination-item newer">Newer</span>
+  {% endif %}
+</div> -->
+{% endif %}
