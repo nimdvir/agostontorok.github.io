@@ -1,6 +1,6 @@
 ---
-layout: page
-title: About me
+layout: subpage
+title: Statisztika
 ---
 
 {% comment %}
@@ -13,5 +13,11 @@ title: About me
   ![{{ site.author.name }}]({{ site.author.photo }}){:.me}
 {% endif %}
 
-{{ site.author.about }}
+## Többváltozós statisztika
+
+Programok amiket használni fogunk:
+- [JASP](https://jasp-stats.org/)
+- [R](https://www.r-project.org/)
+- [CogStat](https://sites.google.com/site/cogstatprogram/)
+
 

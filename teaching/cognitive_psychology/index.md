@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: subpage
 title: Kognitív pszicholgóia gyakorlat
 ---
 
