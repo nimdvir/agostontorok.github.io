@@ -12,14 +12,15 @@ title: Blog
     {% assign date = currentdate %}
   {% endif %}
   <li>
-    <h1>
+    <h2>
       <a href="{{ site.baseurl }}{{ post.url }}">
-        <span>{{ post.title }}</span>
-        <small>{{ post.date | date: "%m/%d" }}</small>
+		<span>{{ post.title }}</span><br/>
+		<small>{{ post.date | date: '%d %B %Y' }}</small>
       </a>
-    </h1>
+    </h2>
   </li>
-  {{ post.content }}
+  {{ post.excerpt | remove: '<p>' | remove: '</p>' }}
+  <a href="{{ site.baseurl }}{{ post.url }}"> more... </a>
   {% if forloop.last %}</ul><hr/>{% endif %}
 {% endfor %}
 
