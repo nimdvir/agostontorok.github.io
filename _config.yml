@@ -1,0 +1,28 @@
+# Permalinks
+permalink:        pretty 
+
+# Setup
+url:              http://agostontorok.github.io
+
+# Set to '' in case of hosting on `http://<your-github-name>.github.io`
+baseurl:          ''
+
+title:            'ágoston.török'
+
+# Markdown enabled, however don't use more than one paragraph (enforced by `>`)
+description:      >
+  Researcher. Data interpreter. 
+
+# The tags listed as entries in the sidebar
+# sidebar_tags:     [teaching, research]
+
+# Fallback image and color if not overwritten for tag or post
+image:            /public/img/PANO_20140916_152703.jpg
+color:            '#A85641'
+
+author:
+  name:           'Agoston Torok'
+  twitter:        torokagoston
+  github:         agostontorok
+  researchgate:   Agoston_Toeroek
+  linkedin:       ágoston-török-3841895a

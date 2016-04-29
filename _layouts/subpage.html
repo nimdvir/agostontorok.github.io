@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  {% include head.html %}
+
+  <body>
+	
+    <main class="content container">
+		<h1 align="right"><a onclick="window.history.back()">back</a></h1>
+		{{ content }}
+    </main>
+
+    {% include sidebar.html %}
+
+    <script src="{{ site.baseurl }}/public/js/hydejack.js" async></script>
+  </body>
+</html>
