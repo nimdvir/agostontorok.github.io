@@ -4,7 +4,7 @@ layout: default
 
 {% assign post = page %}
 {% if post.tags.size > 0 %}
-  {% capture tags_content %}on {% endcapture %}
+  {% capture tags_content %} {% endcapture %}
   {% for post_tag in post.tags %}
     {% assign tag = site.data.tags[post_tag] %}
     {% if tag %}
@@ -19,7 +19,7 @@ layout: default
 <article class="post">
   <h1 class="post-title">{{ page.title }}</h1>
   <div class="post-date">
-    <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%m/%d/%y" }}</time>
+    {{ page.date | date: '%d %B %Y'  }}
     <span>{{ tags_content }}</span>
   </div>
   <hr/>
