@@ -37,7 +37,7 @@
         `layout: page` in the front-matter. See readme for usage.
       {% endcomment %}
 
-      {% assign pages_list = site.pages %}
+      {% assign pages_list = site.pages | sort:"title" %}
       {% for node in pages_list %}
         {% if node.title != null %}
           {% if node.layout == "page" %}
@@ -54,6 +54,14 @@
 
       {% if site.author.twitter %}
         {% include icon-twitter.html username=site.author.twitter %}
+      {% endif %}
+	  
+	  {% if site.author.researchgate %}
+        {% include icon-researchgate.html username=site.author.researchgate %}
+      {% endif %}
+	  
+	  {% if site.author.linkedin %}
+        {% include icon-linkedin.html username=site.author.linkedin %}
       {% endif %}
     </div>
   </div>

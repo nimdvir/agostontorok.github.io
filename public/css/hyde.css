@@ -309,6 +309,12 @@ h1, h2, h3, h4, h5, h6 {
 .icon-icon-twitter:before {
   content: "\e901";
 }
+.icon-icon-linkedin:before {
+  content: "\e902";
+}
+.icon-icon-facebook:before {
+  content: "\e903";
+}
 
 .me {
     width: 6.5rem;
