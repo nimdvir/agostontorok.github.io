@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Talk on Pszinapszis2016
+title: Talk at Pszinapszis2016
 date: 2016-04-16
 tags: science
 ---
