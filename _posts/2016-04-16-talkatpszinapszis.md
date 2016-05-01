@@ -12,4 +12,4 @@ Usually, people think that illusions are funny and interesting, but they always 
 
 [Schedule of the conference](http://www.pszinapszis.hu/20/?q=hu/eloadasaink)
 
-<img class="  wp-image-74 alignright" src="/public/img/13072841_1083090431751197_4843540111414660913_o.jpg" alt="Me on stage"  height="350" />
+<img class="  wp-image-74 alignright" src="/public/img/13072841_1083090431751197_4843540111414660913_o.jpg" alt="Me on stage"  width = "auto" height="350" />
