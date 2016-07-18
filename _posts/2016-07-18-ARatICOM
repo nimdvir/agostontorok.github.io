@@ -1,0 +1,17 @@
+---
+layout: post
+title: Augmented reality poster at ICOM6
+date: 2016-07-18
+tags: memory neuroscience augmented reality virtual reality
+---
+
+This week I'm at the [ICOM6 conference](http://www.icom2016.com/), this is probably the largest conference I have so far been to. I have just submitted my PhD thesis on virtual reality and spatial cognition and brought here a slice of that. In this study, we showed that the human brain represents the position of objects very early, and their position likely affects visual processing (see the abstract below). But the poster is worthy to see also because of another reason: I added augmented reality to the poster using [ZapWorks Studio](https://zap.works/). They just launched their application, so mine is probably the first ZapWorks enabled conference poster in the world. About the software and implementation, I must say that their solution is pretty stable and the studio is capable of delivering compelling augmented reality experience. The Studio is an editor similar to [Blender](https://www.blender.org/) or [Unity](https://unity3d.com/), relies on some javascript knowledge and 3D models in POD format (off: actually, this is the only part where I would strongly argue for another option). It took roughly half a day to put together my posters AR scene, including familiarization with the software. This is impressive, good job guys! For the reader, you can try it on my poster, just download Zappar to your phone and scan the code in the bottom right corner.
+
+
+<img class="  wp-image-74 alignright" src="/public/img/ICOM_2016.jpg" alt="Prof. Szemeredi is explaining me graph similarity" width = "auto" height="350" />
+
+Abstract:
+__A-0618 Processing of objects in an allocentric reference frame in a cross-maze task
+Agoston Torok1,2,3, Andrea Kobor1, Gyorgy Persa4, Peter Galambos4, Peter Baranyi4, Valeria Csepe1, Ferenc Honbolygo1,3__
+_1 Brain Imaging Centre, Research Centre for Natural Sciences, Hungarian Academy of Sciences, Budapest, Hungary 2 Doctoral School of Psychology, Eötvös Loránd University, Budapest, Hungary 3 Department of Cognitive Psychology, Faculty of Pedagogy and Psychology, Eötvös Loránd University, Budapest, Hungary 4 3D Internet based Control and Communications Laboratory, SZTAKI, Hungarian Academy of Sciences, Budapest, Hungary_
+The spatial location of visual objects is processed in ego- and allocentric reference frames. In previous studies using T-maze it was found that participants processed the spatial location of reward objects in an egocentric reference frame. In the current study, we provide evidence for the processing of reward object locations in an allocentric reference frame. For this purpose, we designed an experiment where human participants were placed in an immersive virtual cross-shaped maze environment. Results showed that the amplitude of the P1 event-related component was modulated by the allocentric location of the objects appearing in the side alley. We interpret this result as the allocentric reference frame is activated when participants are required to reorient themselves in the task.
