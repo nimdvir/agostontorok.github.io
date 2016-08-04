@@ -1,0 +1,11 @@
+---
+layout: post
+title: Meet me at the satRday conference
+date: 2016-08-04
+tags: science data statistics
+---
+
+I'm lucky to give a talk at the [satRday](http://budapest.satrdays.org/#speakers) conference on September 3 2016. I will tell about time series analysis based on our recent work at [Synetiq lab](https://synetiq.net/). The most interesting part of this will be about how [Hidden Markov Modeling](https://cran.r-project.org/web/packages/depmixS4/index.html) can help identifying emotions based on data from EEG, heart-rate, and GSR recordings.
+
+SatRday is a great initiative, and it will be organized for the first time this year. It will take place in three locations: Budapest, San Juan and Cape Town; with the best developers, users and researchers from the R community. For example, we have [Jeroen Ooms /e.g. RMySQL and Mongolite/](http://www.r-pkg.org/search.html?q=jeroen+ooms), [Gábor Csárdi /e.g. igraph/](http://www.r-pkg.org/search.html?q=gabor+csardi), and [Arun Srinivasan /e.g. data.table/](http://www.r-pkg.org/search.html?q=Srinivasan) and many-many great talents from the R side of life. On top of this, the conference registration is very cheap, so if you are a university student this one is highly recommended also.
+
