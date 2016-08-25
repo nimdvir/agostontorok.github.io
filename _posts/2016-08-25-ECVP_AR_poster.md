@@ -14,4 +14,4 @@ I noticed that some people didn't know what to do with my poster, they were stan
 
 Final words: I brought a surprising and new result to the conference: People reorient very quickly in a known environment (~100 msec), and the unseen spatial information modulates visual processing from early stages. If you read this before, let's meet at my poster on Monday, if not I hope that the visual effects brought you there and you learnt about a rather interesting part of spatial research. Cheers!
 
-<img class="  wp-image-74 alignright" src="/public/img/ECVP_2016.JPG" alt="ECVP poster" width = "auto" height="900" />
+<img class="  wp-image-74 alignright" src="/public/img/ECVP_2016.JPG" alt="ECVP poster" width = "auto" />
