@@ -12,5 +12,5 @@ Hello, My name is Ágoston Török, I'm
 
 I’m passionate about data science and interdisciplinary research. This website is devoted to the various softwares and tools I work with and to the social side of science. 
 
-If you are interested, have a look at [my resume](/about/agostontorok_cv_eng.pdf) and my publications on [google scholar](https://scholar.google.hu/citations?user=bhZeGh4AAAAJ&hl=hu).
+If you are interested, have a look at [my resume](/about/agostontorok_cv_eng_co.pdf) and my publications on [google scholar](https://scholar.google.hu/citations?user=bhZeGh4AAAAJ&hl=hu).
 
