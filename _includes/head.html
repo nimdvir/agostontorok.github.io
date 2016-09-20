@@ -57,4 +57,8 @@
 
   <!-- RSS -->
   <link rel="alternate" type="application/atom+xml" title="{{ site.title }}" href="{{ site.baseurl }}/atom.xml">
+  
+{% if jekyll.environment == 'production' %}
+{% include analytics.html %}
+{% endif %}
 </head>
