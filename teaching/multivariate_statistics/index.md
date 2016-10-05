@@ -49,3 +49,9 @@ További olvasmány: [Lindley nagyszerű cikke a kombinációkról](http://web.a
 Kivonat: [2. óra](/public/files/stat02.pdf)
 
 További olvasmány: [A könyvön KÍVÜL ezt az összefoglalót ajánlom](http://evc-cit.info/psych018/Reporting_Statistics.pdf)
+
+### 3. óra. A _t_ disztribúció
+
+Kivonat: [3. óra](/public/files/stat03.pdf)
+
+További olvasmány: [A felkészüléshez ezt a videót ajánlom](https://www.youtube.com/watch?v=fhw1j1Ru2i0)
