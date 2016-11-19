@@ -57,8 +57,14 @@ Kivonat: [3. óra](/public/files/stat03.pdf)
 További olvasmány: [A Bayes-féle összehasonlításhoz ezt a videót ajánlom](https://www.youtube.com/watch?v=fhw1j1Ru2i0)
 [A Student _t_ próbához a következő videót ajánlom](https://www.youtube.com/watch?v=0Pd3dc1GcHc)
 
-### 4. óra. Az ANOVA I.
+### 4. óra. Az ANOVA
 
 Kivonat: [4. óra](/public/files/stat04.pdf)
 
 További olvasmány: [A három típus közötti különbségekről egy jó összefoglaló](https://afni.nimh.nih.gov/sscc/gangc/SS.html) 
+
+### 5. óra. A lineáris regresszió
+
+Kivonat: [5. óra](/public/files/stat05.pdf)
+
+További olvasmány: [Egy bővebb levezetés Andrew Ng tollából](https://datajobs.com/data-science-repo/Generalized-Linear-Models-[Andrew-Ng].pdf) 
