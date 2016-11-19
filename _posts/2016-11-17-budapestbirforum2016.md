@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Talk on the Budapest BI Forum
+title: Talk at the Budapest BI Forum
 date: 2016-11-17
 tags: data science unsupervised learning statistics
 ---
