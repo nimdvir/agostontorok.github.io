@@ -63,8 +63,14 @@ Kivonat: [4. óra](/public/files/stat04.pdf)
 
 További olvasmány: [A három típus közötti különbségekről egy jó összefoglaló](https://afni.nimh.nih.gov/sscc/gangc/SS.html) 
 
-### 5. óra. A lineáris regresszió
+### 5. óra. A frequentista lineáris regresszió
 
 Kivonat: [5. óra](/public/files/stat05.pdf)
 
 További olvasmány: [Egy bővebb levezetés Andrew Ng tollából](https://datajobs.com/data-science-repo/Generalized-Linear-Models-[Andrew-Ng].pdf) 
+
+### 6. óra. A Bayes-féle lineáris regresszió
+
+Kivonat: [6. óra](/public/files/stat06.pdf)
+
+További olvasmány: [Egy hasznos magyarázat a regularizációról](https://www.youtube.com/watch?v=sO4ZirJh9ds) 
