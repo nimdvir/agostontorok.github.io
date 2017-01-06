@@ -13,7 +13,7 @@ title: Publications
   ![{{ site.author.name }}]({{ site.author.photo }}){:.me}
 {% endif %}
 
-#in journals
+# in journals
 
 Agoston Torok, Elisa Raffaella Ferré, Elena Kokkinara, Valéria Csépe, David Swapp, Patrick Haggard (in press). Up, down, near, far: an online vestibular contribution to distance judgement. PONE-D-16-30857
 
@@ -60,7 +60,11 @@ Török Ágoston (2009). Mesterséges ész és személyiség. Kivonatkötet. Psz
 Török Ágoston (2009). Robotpszichológia? Élet és Tudomány LXIV évf. 46. Szám 1446- 1448 pp.
 
 
-#in conferences
+# at conferences
+
+Ágoston Török (2016). "My model shows…": communicating data science to the management. 25-27 October 2016. [Link](http://agostontorok.github.io/research/how_to_tell_your_results/#/)
+
+Ágoston Török (2016). Érzelmek biometrikus adatokból a média szolgálatában. Natural Language Processing Meetup 2016. Október 5.  [Link](https://www.youtube.com/watch?v=HiTQffqtFMo&t=27s)
 
 Ádám Divák, Ágoston Török (2016). How to Make Your Data Shine using Plot.ly. Python Data Night, 2016. 09. 15. [Link](https://github.com/agostontorok/python_data_night_how_to_make_your_data_shine/blob/master/PythonDataNight.ipynb)
 
