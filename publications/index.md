@@ -66,6 +66,8 @@ Török Ágoston (2009). Robotpszichológia? Élet és Tudomány LXIV évf. 46. 
 
 Ágoston Török (2016). Érzelmek biometrikus adatokból a média szolgálatában. Natural Language Processing Meetup 2016. Október 5.  [Link](https://www.youtube.com/watch?v=HiTQffqtFMo&t=27s)
 
+Tölgyesi Borbála;	Török Ágoston (2016). Versengő stratégiák felderítése válaszszekvenciákban. A Magyar Pszichológiai Társaság XXV. Jubileumi Országos Tudományos Nagygyűlése Kivonatkötet. Budapest 2016.06.02 [Link](http://www.mipszi.hu/sites/default/files/mpt_ngy2016_kivonatkotet_0509.pdf)
+
 Ádám Divák, Ágoston Török (2016). How to Make Your Data Shine using Plot.ly. Python Data Night, 2016. 09. 15. [Link](https://github.com/agostontorok/python_data_night_how_to_make_your_data_shine/blob/master/PythonDataNight.ipynb)
 
 Ágoston Török (2016). Time series analysis in R: using hidden Markov models for unsupervised learning. SatRday, 3 September 2016 [Link](https://www.youtube.com/watch?v=3Nl8Y2y2jgk&index=15&list=PLUBl0DoLa5SDsOetNga5pt4uo6YOyKVWn)
