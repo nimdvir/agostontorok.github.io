@@ -15,9 +15,9 @@ title: Publications
 
 # in journals
 
-Agoston Torok, Elisa Raffaella Ferré, Elena Kokkinara, Valéria Csépe, David Swapp, Patrick Haggard (in press). Up, down, near, far: an online vestibular contribution to distance judgement. PONE-D-16-30857
-
 Török Á, Varga K, Pergandi J, Mallet P, Honbolygó F, Csépe V, (in press). Towards a cognitive warning system for safer hybrid traffic. Intell Decis Technol An Int J. 2017;11(1):? 
+
+Agoston Torok, Elisa Raffaella Ferré, Elena Kokkinara, Valéria Csépe, David Swapp, Patrick Haggard (2017). Up, down, near, far: an online vestibular contribution to distance judgement. PLoS ONE 12(1): e0169990. [doi:10.1371/journal.pone.0169990](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0169990)
 
 Torok A. (2016). From human-computer interaction to cognitive infocommunications : a cognitive science perspective. In: Baranyi P, editor. IEEE International Conference on Cognitive Infocommunications. Wroclaw, Poland: IEEE Press; 2016. p. 453–9. [Link](https://www.researchgate.net/publication/309322362_From_human-computer_interaction_to_cognitive_infocommunications_a_cognitive_science_perspective)
 
