@@ -6,7 +6,10 @@ title: About me
 
 Hello, My name is Ágoston Török, I'm
 
-- a data scientist at [Synetiq](https://synetiq.net/team/),
+- a research associate at the [Insitute of Computer Science and Control, HAS](https://www.sztaki.hu/en/agoston-zsolt-torok)
+- a data scientist and R&D lead at [Synetiq](https://synetiq.net/team/),
+
+also you find me from time to time as
 - a research consultant at the  [Brain Imaging Centre, RCNS, HAS](http://www.ttk.mta.hu/telefonkonyv/torok-agoston/), and 
 - a lecturer at [ELTE](http://www.doktori.hu/index.php?menuid=192&sz_ID=18023&popup=1).
 
