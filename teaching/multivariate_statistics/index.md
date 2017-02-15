@@ -1,6 +1,6 @@
 ---
 layout: subpage
-title: Statisztika
+title: Statistics
 ---
 
 {% comment %}
@@ -13,6 +13,77 @@ title: Statisztika
   ![{{ site.author.name }}]({{ site.author.photo }}){:.me}
 {% endif %}
 
+## Multivariate statistics
+
+Softwares used during the course:
+
+- [JASP](https://jasp-stats.org/)
+- [R](https://www.r-project.org/)
+- [CogStat](https://sites.google.com/site/cogstatprogram/)
+
+Lesson plan:
+
+- Exam (w/ randomly selected students)
+- Theory
+- Practice
+- Discussion and applications
+
+Requirements and grading:
+
+- Max two absences
+- Final grade: (average score of exams + score of project work) / 2
+
+Project work:
+
+- Custom statistical analysis on a given dataset
+- Formal requirements: multivariate hypothesis testing, figure, max 2 pages of text, pdf format, send to torok.agoston@sztaki.mta.hu
+
+## Topics
+
+### Topic 1. Introduction to probability theory
+
+Handout: [topic_01](/public/files/stat01.pdf)
+
+Further reading and material: [Lindley's seminal paper on combinations](http://web.archive.org/web/20160110224503/http://www2.isye.gatech.edu/~brani/isyebayes/bank/lindleybayeslady.pdf)
+
+### Topic 2. Standards of statistics
+
+Handout: [topic_2](/public/files/stat02.pdf)
+
+Further reading and material: [The APA handbook on publication guidelines and this link](http://evc-cit.info/psych018/Reporting_Statistics.pdf)
+
+### Topic 3. The _t_ distribution
+
+Handout: [topic_3](/public/files/stat03.pdf)
+
+Further reading and material: [the Bayesian way](https://www.youtube.com/watch?v=fhw1j1Ru2i0)
+[more info on the Student _t_ test](https://www.youtube.com/watch?v=0Pd3dc1GcHc)
+
+### Topic 4. Analysis of variance
+
+Handout: [topic_4](/public/files/stat04.pdf)
+
+Further reading and material: [Differences between type 1,2, and 3 ANOVAs](https://afni.nimh.nih.gov/sscc/gangc/SS.html) 
+
+### Topic 5. Linear regression: the frequentist way
+
+Handout: [topic_5](/public/files/stat05.pdf)
+
+Further reading and material: [Andrew Ng's talk on the topic](https://datajobs.com/data-science-repo/Generalized-Linear-Models-[Andrew-Ng].pdf) 
+
+### Topic 6. Linear regression: the Bayesian way
+
+Handout: [topic_6](/public/files/stat06.pdf)
+
+Further reading and material: [A useful explanation of the Bayesian linear regression](https://www.youtube.com/watch?v=sO4ZirJh9ds)
+
+### Topic 7. Dimension reduction techniques
+
+Handout: [TBA]()
+
+Further reading and material: [TBA]()
+
+{% comment %}
 ## Többváltozós statisztika
 
 Programok amiket használni fogunk:
@@ -36,7 +107,7 @@ A teljesítés feltétele:
 Projekt:
 
 - Az órán megismert adatok közül az egyiken egy saját elemzés készítése és bemutatása
-- Formai követelmények: többváltozós statisztika, ábra, max 2 oldal szöveg, pdf formátumban, email-ben a torok.agoston@ttk.mta.hu-ra
+- Formai követelmények: többváltozós statisztika, ábra, max 2 oldal szöveg, pdf formátumban, email-ben a torok.agoston@sztaki.mta.hu-ra
 
 ### 1. óra. Gyakorlati bevezetés a valószínűség fogalmába
 
@@ -74,3 +145,4 @@ További olvasmány: [Egy bővebb levezetés Andrew Ng tollából](https://dataj
 Kivonat: [6. óra](/public/files/stat06.pdf)
 
 További olvasmány: [Egy hasznos magyarázat a regularizációról](https://www.youtube.com/watch?v=sO4ZirJh9ds) 
+{% endcomment %}
