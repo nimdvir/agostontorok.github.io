@@ -63,7 +63,7 @@ Further reading and material: [the Bayesian way](https://www.youtube.com/watch?v
 
 Handout: [topic_4](/public/files/stat04.pdf)
 
-Further reading and material: [Differences between type 1,2, and 3 ANOVAs](https://afni.nimh.nih.gov/sscc/gangc/SS.html) 
+Further reading and material: [Differences between type 1,2, and 3 ANOVAs](https://mcfromnz.wordpress.com/2011/03/02/anova-type-iiiiii-ss-explained/) 
 
 ### Topic 5. Linear regression: the frequentist way
 
