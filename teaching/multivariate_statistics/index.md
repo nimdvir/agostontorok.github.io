@@ -44,6 +44,8 @@ Project work:
 
 Handout: [topic_01](/public/files/stat01.pdf)
 
+Handout 2 by Borbála Tölgyesi: [handout](/public/files/handout_probability_theory.jpg)
+
 Further reading and material: [Lindley's seminal paper on combinations](http://web.archive.org/web/20160110224503/http://www2.isye.gatech.edu/~brani/isyebayes/bank/lindleybayeslady.pdf)
 
 ### Topic 2. Standards of statistics
@@ -64,6 +66,9 @@ Further reading and material: [the Bayesian way](https://www.youtube.com/watch?v
 Handout: [topic_4](/public/files/stat04.pdf)
 
 Further reading and material: [Differences between type 1,2, and 3 ANOVAs](https://mcfromnz.wordpress.com/2011/03/02/anova-type-iiiiii-ss-explained/) 
+[Introduction to regularization I.](https://www.youtube.com/watch?v=l9V5tlIWTvs)
+[Introduction to L1 regularization](https://www.youtube.com/watch?v=qU1_cj4LfLY)
+[Further reading on regularization, read the regularization part](http://www.chioka.in/differences-between-l1-and-l2-as-loss-function-and-regularization/)
 
 ### Topic 5. Linear regression: the frequentist way
 
