@@ -7,7 +7,7 @@ tags: statistics data science
 
 In recent times the popularity of Bayesian statistics has greatly increased, thanks to the large computing power of modern computers. As a result, there is an ongoing debate on whether the Bayesian or frequentist approach is more suitable for statistical and scientific purposes. A great number of introductory papers on these two schools of statistical inference are available online, therefore I will not spend time reiterating the basic definitions here (for those who are interested I recommend [these](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/readings/MIT18_05S14_Reading20.pdf) or [two](http://web.archive.org/web/20160110224503/http://www2.isye.gatech.edu/~brani/isyebayes/bank/lindleybayeslady.pdf) documents, which contain excellent introductions to the topic). Instead, my goal is to take a look at which of these two approaches is worth following in order to reach the right statistical conclusions – whatever the definition of ‘right’ may be.
 
-In the Bayesian approach we are looking for the probability P(model | data), which could be translated to our “assuming” the model and “having” the data. That is, our model is uncertain, while the data is our ground truth – the only certain thing we know about reality. In contrast, when we follow the frequentist approach, we are looking for the probability  P(data | model), which means that we “assume” the data and “have” the model. In other words, we are certain about our model (at least for working purposes) and we have uncertain measurements, i.e. the data, which may or may not perfectly reflect our model (or even reality). 
+In the Bayesian approach we are looking for the probability <code>P(model|data)</code>, which could be translated to our “assuming” the model and “having” the data. That is, our model is uncertain, while the data is our ground truth – the only certain thing we know about reality. In contrast, when we follow the frequentist approach, we are looking for the probability  <code>P(data|model)</code>, which means that we “assume” the data and “have” the model. In other words, we are certain about our model (at least for working purposes) and we have uncertain measurements, i.e. the data, which may or may not perfectly reflect our model (or even reality). 
 
 <img class="  wp-image-74 alignright" src="/public/img/b_vs_f/pic_1.JPG" alt="Sketch by Borbála Tölgyesi" width = "auto" height="350" />
 
@@ -23,7 +23,7 @@ This is why the proponents of frequentist statistics approach the problem by say
 
 Boring stuff I know, but all of this is very handy since we can always reject the null hypothesis, gaining the chance to formulate more interesting conjectures.  
 
-<img class="  wp-image-74 alignright" src="/public/img/b_vs_f/pic_2.jpg" alt="Sketch by Borbála Tölgyesi 2" width = "auto" height="350" />
+<img class="  wp-image-74 alignright" src="/public/img/b_vs_f/pic_2.JPG" alt="Sketch by Borbála Tölgyesi 2" width = "auto" height="350" />
  
 And although at first glance you might say that frequentists seem to be a little bit unambitious – seeing as they only talk about what the observed phenomenon is not, instead of what it really is - it’s still the case that statistical methods are used to make grand claims all the time. Statistics has great power and as you know [with great power there must also come great responsibility]( https://en.wikiquote.org/wiki/Stan_Lee). Statistics can easily lead to false conclusions if not applied with the utmost care, so one is always well advised to tread carefully when it comes to statistics ([For those who are interested in how dangerous statistics really is ]( https://www.youtube.com/watch?v=TQHs8SA1qpk)). 
 
@@ -43,7 +43,7 @@ Imagine that there was a murder and the murderer might be
 
 Let’s distribute the whole (1.0) probability between them, attributing 0.2 to the wife, the son, and the postman, 0.15 to the husband, and the remaining 0.05 to the mother-in-law, who was least likely to commit the crime due to her old age. Now, let’s go on with this thought experiment. We find out that the postman was out of town therefore he couldn’t have been the murderer. We take away the weight of 0.2 attributed to him and rescale the remaining values so that they sum up to 1.0, because someone on the list must be the murderer. Now, it turns out that the wife and the son were in the supermarket. The husband was left-handed so we can rule him out, too, given that the killer was shown by the forensics team to be right-handed. We take away their proportions too, and bamm! We know that the mother-in-law must be guilty of murder.
 
-<img class="  wp-image-74 alignright" src="/public/img/b_vs_f/pic_3.jpg" alt="Sketch by Borbála Tölgyesi 3" width = "auto" height="350" />
+<img class="  wp-image-74 alignright" src="/public/img/b_vs_f/pic_3.JPG" alt="Sketch by Borbála Tölgyesi 3" width = "auto" height="350" />
 
 This could be a nice ending to a TV series, and indeed we often solve practical problems by ruling out possibilities until we are able to hone in on the solution. However, having such a limited number of discrete cases and an easily explorable ground truth is a luxury, something that rarely happens in real life. Imagine, for example, an assassination where we cannot limit the possible suspects to a few people. And that’s not even considering problems where the range of potential solutions is continuous. 
 
@@ -82,6 +82,6 @@ Bayesian statistics is like a Taylor Swift concert: it’s flashy and trendy, in
 __So don’t waste time distinguishing yourself as being either a pure Bayesian or pure frequentist. Instead, solve problems with all the tools you have!__
 
 
-<img class="  wp-image-74 alignright" src="/public/img/b_vs_f/pic_4.jpg" alt="Sketch by Borbála Tölgyesi 4" width = "auto" height="350" />
+<img class="  wp-image-74 alignright" src="/public/img/b_vs_f/pic_4.JPG" alt="Sketch by Borbála Tölgyesi 4" width = "auto" height="350" />
 
 I would like to thank Fanni Kling, Linda Garami PhD, Ádám Csapó PhD for their help in turning the first draft of this post to this version. Furthermore, I enjoyed the creativity of Borbála Tölgyesi, who provided me with her sketches as illustrations.   
