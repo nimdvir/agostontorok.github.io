@@ -4,9 +4,9 @@ title: About me
 ---
 
 
-Hello, My name is Ágoston Török, I'm
+Hello, My name is Ágoston Török, PhD I'm
 
-- a research associate at the [Insitute of Computer Science and Control, HAS](https://www.sztaki.hu/en/agoston-zsolt-torok)
+- a research fellow at the [Insitute of Computer Science and Control, HAS](https://www.sztaki.hu/en/agoston-zsolt-torok)
 - a data scientist and R&D lead at [Synetiq](https://synetiq.net/team/),
 
 also you find me from time to time as
