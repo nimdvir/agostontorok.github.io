@@ -5,15 +5,21 @@ title: Research
 
 ## Navigation
 
-We don't see space, we feel it instead. This was a consequence of the experiments of John O'Keefe and Jonathan Dostrovsky in 1971, when they found place cells in a rat's hippocampus, far from the visual cortex. Those cells fired each time when the rat was at certain places in the experimental box. Their discovery inspired several new experiments on how we navigate in space. I'm interested in how we can address new questions on this topic using virtual reality. I'm lucky to collaborate on these with researchers from MTA SZTAKI, BME, Technion (Haifa, Israel) and UT Austin (Texas, USA). 
+We don't see space, we feel it instead. This was a consequence of the experiments of John O'Keefe and Jonathan Dostrovsky in 1971, when they found place cells in a rat's hippocampus, far from the visual cortex. Those cells fired each time when the rat was at certain places in the experimental box. Their discovery inspired several new experiments on how we navigate in space. 
+
+I'm interested in how the human mind can flexibly process spatial relations and complex environments, and how we can address challenging questions here with the use of virtual reality. We are studying navigation ability at several levels of cognitive processing; from behaviour, to activity of brain areas, and to spiking of single neurons in deeper brain structures. I'm fortunate to collaborate with researchers from BME, ELTE, Technion (Haifa, Israel) and UT Austin (Texas, USA). 
 
 <img class="  wp-image-74 alignright" src="/public/img/agoston.jpeg" alt="Preparing an experiment Dr. Honbolygó" width = "auto" height="250" />
 
-## Multimodal integration
+## Multisensory integration
 
-With the growing interest in Virtual Reality applications it's essential to reveal how the brain perceives it. Multisensory integration is highly relevant from this aspect. This is due to the fact that in VR environments we experience a paradox situation. On one hand, no matter how realistic the scene is, we know it is virtual; but on the other hand, even modest virtual scenes are capable of evoking strange experiencies, e.g. vertigo by simply rocking the horizon. It is still an open question in which level of cognitive processing we perceive virtual reality as real, and in which level our brain knows that it is not. I'm currently collaborating with researchers from Aix-Marseille University (France), UCL (London, UK) and Carl von Ossietzky University (Oldenburg, Germany). 
+Our perception of the world is essentially multimodal. For example, when someone drives a car it is tempting to see that he/she perceives the world through only the eyes, but it is not true. The driver does not only hear noises from inside and outside of the car, but feels the speed and angle of movement through his/her body. Therefore, to know fast and accurately we can react in a driving emergency, we have to consider all the information that reach our senses. 
+
+I use mostly virtual reality to simulate realistic situations where multisensory integration can be studied. This approach is interesting not only because it can provide new insights about human behaviour in natural scenarios, but also in the development of virtual reality interfaces. In VR environments we experience a paradox situation. On one hand, no matter how realistic the scene is, we know it is virtual; but on the other hand, even modest virtual scenes are capable of evoking strange experiencies, e.g. vertigo by simply rocking the horizon. It is still an open question in which level of cognitive processing we perceive virtual reality as real, and in which level our brain knows that it is not. I'm currently collaborating with researchers from Royal Holloway University of London (UK), Aix-Marseille University (France), UCL (London, UK), and Carl von Ossietzky University (Oldenburg, Germany). 
 
 <img class="  wp-image-72 alignright" src="/public/img/2015-06-29 11.32.23.jpg" alt="Our experiment at OFFIS" width = "auto" height="250" />
+
+
 
 ## The prosodic structure
 
