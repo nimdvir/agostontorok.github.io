@@ -7,7 +7,7 @@ title: Research
 
 We don't see space, we feel it instead. This was a consequence of the experiments of John O'Keefe and Jonathan Dostrovsky in 1971, when they found place cells in a rat's hippocampus, far from the visual cortex. Those cells fired each time when the rat was at certain places in the experimental box. Their discovery inspired several new experiments on how we navigate in space. 
 
-I'm interested in how the human mind can flexibly process spatial relations and complex environments, and how we can address challenging questions here with the use of virtual reality. We are studying navigation ability at several levels of cognitive processing; from behaviour, to activity of brain areas, and to spiking of single neurons in deeper brain structures. I'm fortunate to collaborate with researchers from BME, ELTE, Technion (Haifa, Israel) and UT Austin (Texas, USA). 
+I'm interested in how the human mind can flexibly process spatial relations and complex environments, and how we can address challenging questions here with the use of virtual reality and machine learning. We are studying navigation ability at several levels of cognitive processing; from behaviour, to activity of brain areas, and to spiking of single neurons in deeper brain structures. I'm fortunate to collaborate with researchers from BME, ELTE, Technion (Haifa, Israel) and UT Austin (Texas, USA). 
 
 <img class="  wp-image-74 alignright" src="/public/img/agoston.jpeg" alt="Preparing an experiment Dr. Honbolygó" width = "auto" height="250" />
 
@@ -19,7 +19,13 @@ I use mostly virtual reality to simulate realistic situations where multisensory
 
 <img class="  wp-image-72 alignright" src="/public/img/2015-06-29 11.32.23.jpg" alt="Our experiment at OFFIS" width = "auto" height="250" />
 
+## Viewers emotion
 
+During my work at [Synetiq](https://synetiq.net/), I'm building statistical machine learning models to understand what makes people like an advert and how we can predict the success of an ad. This field is especially interesting to me because it provides a great opportunity to bring scientific results to business decision-making. This is great challenge, since the use of emotions in marketing research is a relatively new direction, and so everything we do - be it deep learning or unsupervised methods - is breaking new grounds.
+
+In applied research, the emphasis is on repeatable, robust, and meaningful experiments; and on the communication of often complex models in an understandable manner. These focuses taught me important lessons, which I can use also in answering exploratory research questions as well. 
+
+<img class="  wp-image-72 alignright" src="/public/img/IMG_20161021_192110.jpg" alt="A tester computer at Synetiq" width = "auto" height="250" />
 
 ## The prosodic structure
 
