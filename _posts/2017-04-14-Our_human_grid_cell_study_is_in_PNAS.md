@@ -7,7 +7,7 @@ tags: science statistics psychology virtual neuroscience
 
 About five years ago, we have come up with a idea about grid cells that challenged mainstream scientific thinking. While grid cells in rodent form a context independent coordinate system for spatial navigation, we thought that their activity actually does depend on the context in humans. To verify this we designed an experiment where epliepsy patients with implanted electrodes had to navigate in virtual environments of different sizes.
 
-<img class="  wp-image-74 alignright" src="/public/img/2014-04-25 11.44.49.jpg" alt="Me with Zoltan and Bob" width = "auto" height="900" />
+<img class="  wp-image-74 alignright" src="/public/img/2014-04-25 11.44.49.jpg" alt="Me with Zoltan and Bob" width = "auto" height="auto" />
 
 This venture was a longshot: recording single cell activity from the human entorhinal cortex, being able to record navigation with the patients for long enough time and on consecutive days, being able to analyze the acquired single cell data to statistically quantify the difference. This would have been impossible without having such a talented and devoted group of fellows: a scientific mastermind, [Zoltan Nadasdy](https://scholar.google.com/citations?user=8_USbXEAAAAJ&hl=en), an exceptional neurosurgeon [Robert J. Buchnanan](https://www.seton.net/brain-and-spine-care/providers/bio/robert-buchanan), a so talented student [T. Peter Nguyen](https://www.linkedin.com/in/t-peter-nguyen-31168049/), and great neurologists [Pradeep Modur](https://www.youtube.com/watch?v=NXelMeCIsNw), [Deborah Briggs](https://www.youtube.com/watch?v=-9K5lccKSP4) and [Jason Shen](https://www.youtube.com/watch?v=T9leMNaaS6c). 
 
