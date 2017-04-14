@@ -24,6 +24,8 @@ Also our research was featured at:
 
 [Inforadio](http://inforadio.hu/tudomany/2017/04/11/paratlan_eredmenyekkel_rukkoltak_elo_magyar_kutatok_az_emberi_agyrol/)
 
+[MedicalXpress](https://medicalxpress.com/news/2017-04-human-cognitive-scales.html)
+
 [ELTE](https://www.elte.hu/content/tajekozodas-es-racssejtek.t.13846) 
 
 [UT News](https://news.utexas.edu/2017/04/12/human-cognitive-map-scales-according-to-surroundings)
