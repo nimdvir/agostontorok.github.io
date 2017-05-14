@@ -1,5 +1,5 @@
 ---
-title: "Virtual teleportation changes how we think of space: Paper in Psychophysiology"
+title: "Virtual teleportation changes how we think of space"
 layout: post
 date: '2017-05-11'
 tags: neuroscience data science
@@ -15,5 +15,5 @@ For the behavioural data, we used Bayesian statistics to show how unlikely that 
 
 For the EEG analysis we performed randomization based statistical analysis and performed topographical comparisons. This revealed that the P1 difference we found was not signaling stronger processing of one alley than the other, but rather reflecting different topographies for the two alleys. This type of analysis is valuable because helps researchers to turn their focus from channel or cluster based changes to the investigation of changes in the whole EEG topography.
 
-Click here for a [preprint version of the paper](/public/files/toroketal_psyp_preprint.pdf) or contact me at torok.agoston\@ttk.mta.hu for a copy of the published version.
+Click here for a [preprint version of the paper](/public/files/toroketal_psyp_preprint.pdf) or contact me at torok.agoston@ttk.mta.hu for a copy of the published version.
 
