@@ -15,6 +15,10 @@ title: Publications
 
 # in journals
 
+Török, Zs. and Török, Á. (in press) Cognitive data visualization, a new field with a long history. 
+
+Török, Á., Tölgyesi, B., Török, Zs. (in press) Cluttered centres: interaction between eccentricity and clutter in attracting visual attention of readers of a 16th century map. In: Baranyi P, editor. IEEE International Conference on Cognitive Infocommunications. Debrecen, Hungary: IEEE Press; xx - xx.
+
 Török Á, Varga K, Pergandi J, Mallet P, Honbolygó F, Csépe V, (in press). Towards a cognitive warning system for safer hybrid traffic. Intell Decis Technol An Int J. 2017;11(1):? 
 
 
@@ -68,6 +72,10 @@ Török Ágoston (2009). Robotpszichológia? Élet és Tudomány LXIV évf. 46. 
 
 
 # at conferences
+
+Ágoston Török (2017). The neuroscience of virtual reality: an applied research perspective. KEYNOTE at IEEE CogInfoCom2017. Sep 11 - Sep 14 Debrecen, Hungary
+
+Török Ágoston and Tölgyesi Borbála (2017). Versengő stratégiák felderítése válaszszekvenciákban. 25. MAKOG 2017. Budapest. Aug 31 - Sep 2 2017
 
 Ágoston Török (2016). "My model shows…": communicating data science to the management. 25-27 October 2016. [Link](http://agostontorok.github.io/research/how_to_tell_your_results/#/)
 
