@@ -58,8 +58,16 @@ Further reading and material: [The APA handbook on publication guidelines and th
 
 Handout: [topic_3](/public/files/stat03.pdf)
 
-Further reading and material: [the Bayesian way](https://www.youtube.com/watch?v=fhw1j1Ru2i0)
+Further reading and material: 
+
+[the Bayesian way](https://www.youtube.com/watch?v=fhw1j1Ru2i0)
+
 [more info on the Student _t_ test](https://www.youtube.com/watch?v=0Pd3dc1GcHc)
+
+Practice on the z-test: [1](https://www.youtube.com/watch?v=se_VxWxiIfc),
+[2](https://www.youtube.com/watch?v=CgjXAgIb52c)
+[3](https://www.youtube.com/watch?v=l5n25wNbKWg)
+[4](https://www.youtube.com/watch?v=Gmyr3Fi7Z9k)
 
 ### Topic 4. Analysis of variance
 
