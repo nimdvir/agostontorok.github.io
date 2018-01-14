@@ -44,6 +44,11 @@ Here, I used sliders between 0 and 100 and asked people to guess the percentage 
 - Whether you give a reference by stating the actual data for one country. That helps people to tune their response, but I was more curious to their uninformed guesses.
 - Where you put the default position of the slider. If it is 50 then people will slide from 50 to two directions, which would help me generate a nice Gaussian but at the same time could work as an attractor and I will get less deviation between guesses. If I put 0 though it would mean that they have to make more effort to pull the slider higher. Although in many cases, 0 could be an attractor as well but here, since we are in a culture where basically everyone we know is online, this is unrealistic. 
 
+<div>
+    <a href="https://plot.ly/~agostontorok/40/?share_key=ubLHWe8OOTK0PdfZEi3GzP" target="_blank" title="SurveyInternetPenetration" style="display: block; text-align: center;"><img src="https://plot.ly/~agostontorok/40.png?share_key=ubLHWe8OOTK0PdfZEi3GzP" alt="SurveyInternetPenetration" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
+    <script data-plotly="agostontorok:40" sharekey-plotly="ubLHWe8OOTK0PdfZEi3GzP" src="https://plot.ly/embed.js" async></script>
+</div>
+
 After collecting the data, I've run Bayesian _t_-tests with the test value being the actual value and used a Cauchy prior with half-width .705 (this is more or less standard in the objective Bayesian approach). Let's see a nice visualization of the difference between what people think and the actual values. Also, because people will make multiple comparisons when looking at the visualization to decide the surprise factor of the countries, I applied Bonferroni correction for the final Bayes factor values. 
 
 - Values <3 were interpreted as Expected
@@ -51,11 +56,6 @@ After collecting the data, I've run Bayesian _t_-tests with the test value being
 - Above 10 were Very Surprising.
 
 The surveyed countries were Hungary, China, Russia, Canada, India, Kenya, Niger, Egypt, Peru, Antarctica. The figure below shows the real values and the distribution of the data. The guesses for Hungary ($BF_{10}$ = 0.03), China (0.05), Russia (0.03) and Peru (0.10) were as expected. The actual values were somewhat surprising for Egypt (4.66) and India (5.23); and were very surprising for Kenya (~170000), Niger (~4300), Canada (25.29) and Antarctica (635.2). Interestingly the largest surprise factors were for the two African countries, and Kenya was underestimated whereas Niger was overestimated (2.65, error% = 0.002). This is a good sign of our uninformed perception of the continent. A fun fact also: Antarctica... people seemed to be mostly indecisive about its status. So all in all, this data looks very interesting and is predicted to be useful to raise awareness of the developing world's problems.
-
-<div>
-    <a href="https://plot.ly/~agostontorok/40/?share_key=ubLHWe8OOTK0PdfZEi3GzP" target="_blank" title="SurveyInternetPenetration" style="display: block; text-align: center;"><img src="https://plot.ly/~agostontorok/40.png?share_key=ubLHWe8OOTK0PdfZEi3GzP" alt="SurveyInternetPenetration" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
-    <script data-plotly="agostontorok:40" sharekey-plotly="ubLHWe8OOTK0PdfZEi3GzP" src="https://plot.ly/embed.js" async></script>
-</div>
 
 # Second step: the first iteration
 
