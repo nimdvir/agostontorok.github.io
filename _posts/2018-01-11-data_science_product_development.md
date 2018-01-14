@@ -5,43 +5,6 @@ date: '2018-01-11'
 tags: christmas data science world poverty
 ---
 
-Developing a data science product is the focus of most startups in our time. Thousands of entrepenurs are working on finding a way to create a better world or make huge money by using current developments in machine learning, data storage, cloud computing, and deep learning. Although many products are built on technology, data-driven products are unique since here the research results of last week may end up in a product already next month. And that is fast. The field is therefore is filled with noise and buzz and sometimes even smoke...
-
-Here, I would like to share a short tutorial on the development steps of a data-driven product. I will use the example of the Christmas Card I made for this year's holiday season that I sent on 21 Dec to my colleagues and collaborators. The experiences I'm about to share are coming my day to day work as R&D Lead next to a brilliant businessman and lean development guru.
-
-# Think twice
-
-All product development should start with a small brainstorming. In this specific case, since I was the only one who was to work on the project I had to discuss my idea with others. So, I took the sketch of my idea and pitched it to as many people as possible. I wanted to deliver a warm Christmas message that reminds people to others ( __value__ ). I had a deadline: I wanted to be ready with the card/visualization by 19 Dec in order to write some notes and make sure that everyone gets the message before Christmas. I like time pressure factors like this, they help __concentrating__ on delivering value for the customer instead of crafting for perfection in a never ending cycle. Since I had my dayly job, research, friends etc. in my life besides this pet project, I had to make sure reducing the work that is only __waste__ (e.g. implementing features that will never be used). Finally, because after all this is a Christmas card that people are going to look at and archive/delete from their mailbox, the message had to be clear and concise. To warrant this I created several __iterations__ and __measured__ their effectiveness before start working on the next phase.
-
-# Theory and practice
-
-My idea was an interactive map, which uses a heatmap to show the population of a country and opacity to visualize the internet penetration. This way people become 'invisible' where internet is lacking, yet you are able to see the population based on the color. In my initial idea, the interactivity was a tooltip function which mines a recent article about the country in question and shows it on hover. I also wanted to put some machine learning at work inside the thing to turn it into a real data science product, but at the beginning I was not sure where to put it or even more: where would it be useful. In sum, I imagined something like this image here: 
-
-<img class="  wp-image-74 alignright" src="/public/img/sketch_christmas_post" alt="Sketch"  width = "auto" height="350" />
-
-I also spent some time on how I want to create this visualization. When developing a data-driven product it is tempting to move at full speed and just crunch the numbers and write hundreds of lines of code. This happens because it is rewarding to see how the product changes with every press of the `enter` button. But there is always an end to every work day, a weekend, or another project which halts the flow. So you should never direspect the concepts of:  
-
-- Documentation
-- Version Control
-- Containerization
-
-I also followed this so the code with the Docker container is available on [GitHub](https://github.com/agostontorok/christmas_post)
-
-# First step: the Proof of Concept
-
-Actually this should be the proof_s_ of concept as there may be multiple sides where your idea should be tested. Here, I limit these to two sides: technical and storytelling. First, before start working on a project one has to take into account what tools are available, what developments are yet to be done, and what are the foreseeable risks that you are taking (something is doable in theory, but what if it turns to be not working in practice... ). In this case, I needed some kind of visualization library, that:
-
-- has a Python API. Because I worked in Python most of the times in December I did not want the friction of changing to R or Javascript when I steal 5 minutes to work on this. In real projects this is also an important consideration. Do you want to have multiple languages in the codebase? Do you have the people to maintain it? Of course, the situation is not black and white, yet you have to think about these.
-- would run online and
-- is interactive
-
----
-title: "Minimal example for a data science product development"
-layout: post
-date: '2018-01-11'
-tags: christmas data science world poverty
----
-
 Developing a data science product is the focus of many startups and enterprises in our time. Thousands of entrepreneurs are working on finding a way to create a better world or to make huge money. They all want to do this by using current developments in machine learning, data storage, cloud computing, and deep learning. Although many products are built on technology, data-driven products are unique since here the research results of last week may end up in a product already next month. And that is fast. The field is, therefore, filled with noise and buzz...
 
 Here, I would like to share a short tutorial on the development steps of a data-driven product. I will use the example of the Christmas Card I made for this year's holiday season and that I sent on 21 Dec to my colleagues and collaborators. The experiences I'm about to share are coming my day to day work as R&D Lead next to a brilliant businessman and a lean development guru.
@@ -54,7 +17,7 @@ All product development should start with a small brainstorming. In this specifi
 
 My idea was an interactive map, which used a _heatmap_ to show the population of a country and _opacity_ to visualize the internet penetration. This way people become 'invisible' where the internet was lacking, yet you were able to see the population based on the color. Initially, the interactivity was a tooltip function which mined a recent article about the country in question and showed it on hover. I also wanted to put some machine learning at work inside the thing to turn it into a real data science product, but at the beginning, I was not sure where to put it or even more: where would it be useful. In sum, I imagined something like this image here: 
 
-<img class="  wp-image-74 alignright" src="/public/img/sketch_christmas_post" alt="Sketch"  width = "auto" height="350" />
+<img class="  wp-image-74 alignright" src="/public/img/sketch_christmas_post.png" alt="Sketch"  width = "auto" height="350" />
 
 I spent some time also on _how_ I want to create this visualization. When developing a data-driven product it is tempting to move at full speed and just crunch the numbers and write hundreds of lines of code. This happens because it is rewarding to see how the product changes with every press of the `enter` button. But there is always an end to every work day, a weekend, or another project which halts the flow. So you should always keep in mind the mantras of:  
 
