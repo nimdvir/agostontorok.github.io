@@ -17,7 +17,7 @@ All product development should start with a small brainstorming. In this specifi
 
 My idea was an interactive map, which used a _heatmap_ to show the population of a country and _opacity_ to visualize the internet penetration. This way people become 'invisible' where the internet was lacking, yet you were able to see the population based on the color. Initially, the interactivity was a tooltip function which mined a recent article about the country in question and showed it on hover. I also wanted to put some machine learning at work inside the thing to turn it into a real data science product, but at the beginning, I was not sure where to put it or even more: where would it be useful. In sum, I imagined something like this image here: 
 
-<img class="  wp-image-74 alignright" src="/public/img/sketch_christmas_post.png" alt="Sketch"  width = "auto" height="350" />
+<img class="  wp-image-74 alignright" src="/public/img/christmas_post_sketch.png" alt="Sketch"  width = "auto" height="350" />
 
 I spent some time also on _how_ I want to create this visualization. When developing a data-driven product it is tempting to move at full speed and just crunch the numbers and write hundreds of lines of code. This happens because it is rewarding to see how the product changes with every press of the `enter` button. But there is always an end to every work day, a weekend, or another project which halts the flow. So you should always keep in mind the mantras of:  
 
