@@ -1,5 +1,5 @@
 ---
-title: "Minimal example for a data science product development"
+title: "Minimal example for the development of a data science product"
 layout: post
 date: '2018-01-11'
 tags: christmas data science world poverty
