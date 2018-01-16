@@ -19,7 +19,7 @@ Török, Zs. and Török, Á. (in press) Cognitive data visualization, a new fie
 
 Török, Á., Tölgyesi, B., Török, Zs. (in press) Cluttered centres: interaction between eccentricity and clutter in attracting visual attention of readers of a 16th century map. In: Baranyi P, editor. IEEE International Conference on Cognitive Infocommunications. Debrecen, Hungary: IEEE Press; xx - xx.
 
-Török Á, Varga K, Pergandi J, Mallet P, Honbolygó F, Csépe V, (in press). Towards a cognitive warning system for safer hybrid traffic. Intell Decis Technol An Int J. 2017;11(1):? 
+Török Á, Varga K, Pergandi J, Mallet P, Honbolygó F, Csépe V, (2017). [Towards a cognitive warning system for safer hybrid traffic.](https://www.researchgate.net/profile/Agoston_Toeroek/publication/321931929_Towards_a_cognitive_warning_system_for_safer_hybrid_traffic/links/5a4625e3aca272d2945df3e6/Towards-a-cognitive-warning-system-for-safer-hybrid-traffic.pdf?origin=publication_detail) Intell Decis Technol An Int J. 2017;11(4):431-439.
 
 
 Török Á, Kóbor A, Persa G, et al. (2017). Temporal dynamics of object location processing in allocentric reference frame. Psychophysiology. 2017;00:1–13. [https://doi.org/10.1111/psyp.12886](http://onlinelibrary.wiley.com/doi/10.1111/psyp.12886/full)
