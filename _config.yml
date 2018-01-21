@@ -1,4 +1,4 @@
-# Permalinks
+﻿# Permalinks
 permalink:        pretty 
 
 # Setup
@@ -12,6 +12,8 @@ title:            'ágoston.török'
 # Markdown enabled, however don't use more than one paragraph (enforced by `>`)
 description:      >
   Researcher. Data interpreter. 
+
+disqus_shortname: agostontorok
 
 # The tags listed as entries in the sidebar
 # sidebar_tags:     [teaching, research]
