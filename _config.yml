@@ -13,7 +13,11 @@ title:            'ágoston.török'
 description:      >
   Researcher. Data interpreter. 
 
-disqus_shortname: agostontorok-github-io
+# Disqus Comments
+disqus:
+    # Leave shortname blank to disable comments site-wide.
+    # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
+    shortname: agostontorok-github-io
 
 # The tags listed as entries in the sidebar
 # sidebar_tags:     [teaching, research]
