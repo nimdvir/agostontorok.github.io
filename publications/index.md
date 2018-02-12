@@ -17,7 +17,7 @@ title: Publications
 
 Török, Zs. and Török, Á. (in press) Cognitive data visualization, a new field with a long history. 
 
-Török, Á., Tölgyesi, B., Török, Zs. (in press) Cluttered centres: interaction between eccentricity and clutter in attracting visual attention of readers of a 16th century map. In: Baranyi P, editor. IEEE International Conference on Cognitive Infocommunications. Debrecen, Hungary: IEEE Press; xx - xx.
+Török, Á., Tölgyesi, B., Török, Zs. (in press) [Cluttered centres: interaction between eccentricity and clutter in attracting visual attention of readers of a 16th century map. In: Baranyi P, editor. IEEE International Conference on Cognitive Infocommunications.](/public/files/93_PID4964417_93.pdf) Debrecen, Hungary: IEEE Press; xx - xx.
 
 Török Á, Varga K, Pergandi J, Mallet P, Honbolygó F, Csépe V, (2017). [Towards a cognitive warning system for safer hybrid traffic.](https://www.researchgate.net/profile/Agoston_Toeroek/publication/321931929_Towards_a_cognitive_warning_system_for_safer_hybrid_traffic/links/5a4625e3aca272d2945df3e6/Towards-a-cognitive-warning-system-for-safer-hybrid-traffic.pdf?origin=publication_detail) Intell Decis Technol An Int J. 2017;11(4):431-439.
 
