@@ -15,7 +15,7 @@ I mean, from the mathematical perspective these dynamic systems are stunning. Th
 
 Alternatively, it is also true that if they had not lie about Bali on the first date they would not be arguing now. So you should not agree with someone just to be sympathetic. Be who you are and there comes a person who will agree with you on Bali, that cute little dog, or Austin Powers being cool. Anyways, common thing to both is that you understand the basic rules of statistics because that is to key to the blissful life ;) 
 
-
+BTW, here is the Cube of Trust from the original post:
 
 <div>
     <a href="https://plot.ly/~agostontorok/49/?share_key=Dd1dRkbZIA9TLen8pDkP1v" target="_blank" title="cube_of_trust" style="display: block; text-align: center;"><img src="https://plot.ly/~agostontorok/49.png?share_key=Dd1dRkbZIA9TLen8pDkP1v" alt="cube_of_trust" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
