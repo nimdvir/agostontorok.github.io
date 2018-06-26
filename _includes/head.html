@@ -16,6 +16,7 @@
   <link rel="stylesheet" href="{{ site.baseurl }}/public/css/hyde.css">
   <link rel="stylesheet" href="{{ site.baseurl }}/public/css/jekyll-github.css">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.5.1/katex.min.css">
+  <link rel="stylesheet" href="{{ site.baseurl }}/public/css/showcase.css">
 
   {% assign color = page.color %}
 
@@ -58,7 +59,5 @@
   <!-- RSS -->
   <link rel="alternate" type="application/atom+xml" title="{{ site.title }}" href="{{ site.baseurl }}/atom.xml">
   
-{% if jekyll.environment == 'production' %}
-{% include analytics.html %}
-{% endif %}
+
 </head>

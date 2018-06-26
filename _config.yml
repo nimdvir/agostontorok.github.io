@@ -23,7 +23,7 @@ disqus:
 # sidebar_tags:     [teaching, research]
 
 # Fallback image and color if not overwritten for tag or post
-image:            /public/img/PANO_20140916_152703.jpg
+image:            /public/img/P1330220.JPG
 color:            '#A85641'
 
 author:
@@ -34,4 +34,4 @@ author:
   linkedin:       ágoston-török-phd-3841895a
   
 # Google services
-google_analytics: UA-84531900-1
+#google_analytics: UA-84531900-1
