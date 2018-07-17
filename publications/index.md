@@ -17,7 +17,12 @@ title: Publications
 
 Török, Zs. and Török, Á. (in press) Cognitive data visualization, a new field with a long history. 
 
-Török, Á., Tölgyesi, B., Török, Zs. (in press) [Cluttered centres: interaction between eccentricity and clutter in attracting visual attention of readers of a 16th century map. In: Baranyi P, editor. IEEE International Conference on Cognitive Infocommunications.](/public/files/93_PID4964417_93.pdf) Debrecen, Hungary: IEEE Press; xx - xx.
+Agoston Torok, Andrea Kobor, Ferenc Honbolygo, Travis Baker
+(2018). [A novel virtual plus-maze for studying electrophysiological correlates of spatial reorientation](https://www.biorxiv.org/content/early/2018/07/13/369207). bioRxiv 369207; doi: https://doi.org/10.1101/369207
+
+Zoltan Nadasdy, Agoston Torok, T. Peter Nguyen, Jason Y Shen, Deborah E Brigg, Pradeep N Modur, Robert J Buchanan (2018). [Phase of neuronal activity encodes 2-dimensional space in the human entorhinal cortex](https://www.biorxiv.org/content/early/2018/06/21/352815). bioRxiv 352815; doi: https://doi.org/10.1101/352815
+
+Török, Á., Tölgyesi, B., Török, Zs. (2018) [Cluttered centres: interaction between eccentricity and clutter in attracting visual attention of readers of a 16th century map. In: Baranyi P, editor. IEEE International Conference on Cognitive Infocommunications.](/public/files/93_PID4964417_93.pdf) Debrecen, Hungary: IEEE Press; xx - xx.
 
 Török Á, Varga K, Pergandi J, Mallet P, Honbolygó F, Csépe V, (2017). [Towards a cognitive warning system for safer hybrid traffic.](https://www.researchgate.net/profile/Agoston_Toeroek/publication/321931929_Towards_a_cognitive_warning_system_for_safer_hybrid_traffic/links/5a4625e3aca272d2945df3e6/Towards-a-cognitive-warning-system-for-safer-hybrid-traffic.pdf?origin=publication_detail) Intell Decis Technol An Int J. 2017;11(4):431-439.
 
