@@ -6,7 +6,7 @@ title: About me
 
 Hello, My name is Agoston Torok, PhD currently I'm
 
-- a lead data scientist at [AGT Group R&D GmbH](https://www.agtinternational.com/) and tackling complex challenges in IoT data with my team
+- a lead data scientist at [AGT Group R&D GmbH](https://www.agtinternational.com/) and am tackling complex challenges in IoT data with my team
 
 earlier I enjoyed being 
 
