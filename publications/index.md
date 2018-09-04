@@ -17,7 +17,7 @@ title: Publications
 
 Török, Z. G., & Török, Á. (2019). [Cognitive Data Visualization—A New Field with a Long History](https://www.researchgate.net/publication/327234486_Cognitive_Data_Visualization-A_New_Field_with_a_Long_History?origin=mail&uploadChannel=re390&reqAcc=Michelle_Silagy&useStoredCopy=0). In Cognitive Infocommunications, Theory and Applications (pp. 49-77). Springer, Cham. 
 
-1. Torok Z, Torok A. (2018). Looking at the map — or navigating in a virtual city. Interaction of visuospatial display and spatial strategies in VR. bioRxiv [Internet]. 2018 Jan 1; Available from: [http://biorxiv.org/content/early/2018/08/31/405233.abstract](http://biorxiv.org/content/early/2018/08/31/405233.abstract)
+Torok Z, Torok A. (2018). Looking at the map — or navigating in a virtual city. Interaction of visuospatial display and spatial strategies in VR. bioRxiv [Internet]. 2018 Jan 1; Available from: [http://biorxiv.org/content/early/2018/08/31/405233.abstract](http://biorxiv.org/content/early/2018/08/31/405233.abstract)
 
 Agoston Torok, Andrea Kobor, Ferenc Honbolygo, Travis Baker
 (2018). [A novel virtual plus-maze for studying electrophysiological correlates of spatial reorientation](https://www.biorxiv.org/content/early/2018/07/13/369207). bioRxiv 369207; doi: https://doi.org/10.1101/369207
