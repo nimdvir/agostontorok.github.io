@@ -1,7 +1,7 @@
 ---
 title: "From talents to assets"
 layout: post
-date: '2019-01-01'
+date: '2019-02-01'
 tags: leadership business data science
 ---
 
