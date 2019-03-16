@@ -5,8 +5,6 @@ date: '2019-01-01'
 tags: leadership business data science
 ---
 
-# The business
-
 This is the first part of a mini-series that summarizes my impressions on what makes certain data science teams effective. Over the years, I have worked in several teams: teams of various sizes, from as small as a duo to as large as a dozen data experts; and of various players, from college dropout savants through rebranded software engineers to PhD/postdocs with long years of academic experience. My role was also changing, I started as a junior and with time and experience developed to be a team lead.
 
 Data science is a new field. It is so new that even the term data science is only [12 years old](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1751-5823.2001.tb00477.x). It is a vibrant field though, a meeting point of people with different backgrounds, forming best practices, and high hopes from the stakeholders. The constellation of these factors makes it impossible to blindly generalize everything that we know about effective teamwork to the field of data science. Nevertheless, I think there is a recipe that turns the right ingredients — smart people — into that vital edge the company needs.
