@@ -18,7 +18,7 @@ Take for example the first step: fail. I remember when some time ago, we were si
 
 The next important thing is to focus on only passing the actual test and not writing code that is intended to pass all possible tests in the future. One mantra helping in this is to ‘Keep it simple, stupid’ (KISS) that is often written on the wall of an IT office. Serious TDD practitioners literally stop as soon as the test passed and switch writing the next test if no refactoring needed. This yields short cycles of fail-pass iterations (aka. the flow). Also, the refactoring should not mean changing the test logic or completely rewriting the function that passed it. If you feel for example that the function is duplicated or has too many parameters then refactor.
 
-<img class="  wp-image-74 alignright" src="/public/img/edst3_2.jpeg" alt="" width = "auto" height="350" />
+<img class="  wp-image-74 alignright" src="/public/img/edst3_1.jpeg" alt="" width = "auto" height="350" />
 <em>Test-driven development reduces the time for maintenance if you have time in between maintenance tasks to switch to test-driven development.</em>
 
 
