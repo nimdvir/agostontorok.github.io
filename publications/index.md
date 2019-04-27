@@ -32,9 +32,7 @@ Török Á, Varga K, Pergandi J, Mallet P, Honbolygó F, Csépe V, (2017). [Towa
 
 Török Á, Kóbor A, Persa G, et al. (2017). Temporal dynamics of object location processing in allocentric reference frame. Psychophysiology. 2017;00:1–13. [https://doi.org/10.1111/psyp.12886](http://onlinelibrary.wiley.com/doi/10.1111/psyp.12886/full)
 
-
 Nadasdy, Z., Nguyen, T. P., Török, Á., Shen, J. Y., Briggs, D. E., Modur, P. N., & Buchanan, R. J. (2017). [Context-dependent spatially periodic activity in the human entorhinal cortex.](http://www.pnas.org/content/early/2017/04/06/1701352114.full.pdf) Proceedings of the National Academy of Sciences . http://doi.org/10.1073/pnas.1701352114 
-
 
 Agoston Torok, Elisa Raffaella Ferré, Elena Kokkinara, Valéria Csépe, David Swapp, Patrick Haggard (2017). Up, down, near, far: an online vestibular contribution to distance judgement. PLoS ONE 12(1): e0169990. [doi:10.1371/journal.pone.0169990](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0169990)
 
@@ -80,6 +78,14 @@ Török Ágoston (2009). Robotpszichológia? Élet és Tudomány LXIV évf. 46. 
 
 
 # at conferences
+
+Agoston Torok (2018). [A mesterseges intelligencia alapfogalmai (Introduction to artificial intelligence).](https://www.digitalhungary.hu/_downloaddoc.php?mode=documents&docid=1738) Internet Hungary.
+
+Török, Z. G., Török, Á., Tölgyesi, B., & Kiss, V. (2018). [The Virtual Tourist: Cognitive Strategies And Differences In Navigation And Map Use While Exploring An Imaginary City.](https://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLII-4/631/2018/isprs-archives-XLII-4-631-2018.pdf) International Archives of the Photogrammetry, Remote Sensing & Spatial Information Sciences, 42(4).
+
+Török, Z. G., & Török, Á. (2018, August). [Looking at the map–or navigating in a virtual city: interaction of visuospatial display and spatial strategies in VR.](https://www.biorxiv.org/content/biorxiv/early/2018/08/31/405233.full.pdf) In 2018 9th IEEE International Conference on Cognitive Infocommunications (CogInfoCom) (pp. 000327-000332). IEEE.
+
+Agoston Torok (2017). [Mesterséges idegsejtek (Artifical neurons).](http://njszt.hu/en/node/3484) Annual Meeting of the John von Neumann Computer Society.
 
 Ágoston Török (2017). The neuroscience of virtual reality: an applied research perspective. KEYNOTE at IEEE CogInfoCom2017. Sep 11 - Sep 14 Debrecen, Hungary
 
