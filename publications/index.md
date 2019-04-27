@@ -15,12 +15,13 @@ title: Publications
 
 # in journals and books
 
+Torok, A., Gallagher, M., Lasbareilles, C., & Ferrè, E. R. (2019). [Getting ready for Mars: How the brain perceives new simulated gravitational environments.](https://journals.sagepub.com/doi/abs/10.1177/1747021819839962?journalCode=qjpd) Quarterly Journal of Experimental Psychology, 1747021819839962.
+
+Torok, A., Kobor, A., Honbolygo, F., & Baker, T. (2019).  [A novel virtual plus-maze for studying electrophysiological correlates of spatial reorientation](https://www.biorxiv.org/content/early/2018/07/13/369207). Neuroscience letters, 694, 220-224.
+
 Török, Z. G., & Török, Á. (2019). [Cognitive Data Visualization—A New Field with a Long History](https://www.researchgate.net/publication/327234486_Cognitive_Data_Visualization-A_New_Field_with_a_Long_History?origin=mail&uploadChannel=re390&reqAcc=Michelle_Silagy&useStoredCopy=0). In Cognitive Infocommunications, Theory and Applications (pp. 49-77). Springer, Cham. 
 
 Torok Z, Torok A. (2018). Looking at the map — or navigating in a virtual city. Interaction of visuospatial display and spatial strategies in VR. bioRxiv [Internet]. 2018 Jan 1; Available from: [http://biorxiv.org/content/early/2018/08/31/405233.abstract](http://biorxiv.org/content/early/2018/08/31/405233.abstract)
-
-Agoston Torok, Andrea Kobor, Ferenc Honbolygo, Travis Baker
-(2018). [A novel virtual plus-maze for studying electrophysiological correlates of spatial reorientation](https://www.biorxiv.org/content/early/2018/07/13/369207). bioRxiv 369207; doi: https://doi.org/10.1101/369207
 
 Zoltan Nadasdy, Agoston Torok, T. Peter Nguyen, Jason Y Shen, Deborah E Brigg, Pradeep N Modur, Robert J Buchanan (2018). [Phase of neuronal activity encodes 2-dimensional space in the human entorhinal cortex](https://www.biorxiv.org/content/early/2018/06/21/352815). bioRxiv 352815; doi: https://doi.org/10.1101/352815
 
