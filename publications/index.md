@@ -15,6 +15,8 @@ title: Publications
 
 # in journals and books
 
+Zoltan Trupka (2018) [Mi es az agyunk (AI and the brain - Interview with Agoston Torok)](http://www.eletestudomany.hu/mi_es_az_agyunk). Elet es Tudomany. 2018 November 22.
+
 Torok, A., Gallagher, M., Lasbareilles, C., & Ferrè, E. R. (2019). [Getting ready for Mars: How the brain perceives new simulated gravitational environments.](https://journals.sagepub.com/doi/abs/10.1177/1747021819839962?journalCode=qjpd) Quarterly Journal of Experimental Psychology, 1747021819839962.
 
 Torok, A., Kobor, A., Honbolygo, F., & Baker, T. (2019).  [A novel virtual plus-maze for studying electrophysiological correlates of spatial reorientation](https://www.biorxiv.org/content/early/2018/07/13/369207). Neuroscience letters, 694, 220-224.
